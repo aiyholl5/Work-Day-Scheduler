@@ -19,7 +19,7 @@ The following animation demonstrates the application functionality:
 * GitHub URL: https://github.com/aiyholl5/Work-Day-Scheduler
 
 * Screenshot of deployed application:
-![screenshot of deployed application](C:\Users\Aiyana\Desktop\Projects\05-Third_Party_API\Assets\screenshot_workDay.jpg)
+![screenshot of deployed application](Assets\screenshot_workDay.png)
 
 
 ## Credits
