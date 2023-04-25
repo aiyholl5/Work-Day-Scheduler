@@ -11,6 +11,10 @@ The following animation demonstrates the application functionality:
 <!-- @TODO: create ticket to review/update image) -->
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
+## Functionality
+
+As the user is on the website they can see the date of the current day and the time which is updated every second. The user is able to type in anything they choose into a selected hour in order to save to a local storage. The red indicated the current hour the day is in and the green indicates what hours are left in the work day. 
+
 
 ### Deployed Application
 
